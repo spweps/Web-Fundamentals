@@ -1,0 +1,13 @@
+h1 { color: white;
+background-color:black;
+text-align: left;
+font-style: bold}
+span {color: cyan;}
+h2 {color: white;
+background-color:purple;
+font-style: italic;
+text-align:center;}
+h3 {color: black;
+background-color:cornflowerblue;
+text-align: right;
+text-decoration: underlined;}
