@@ -1,0 +1,19 @@
+#Search {
+    background-color: darkslategray;
+    text-decoration-color: deeppink;
+    border-radius: 50%;
+    color:greenyellow;
+
+}
+#plus {
+    background-color: darkorchid;
+    border-radius: 50%;
+
+}
+#create {
+    color:chartreuse;
+    background-color: darkblue;
+    background-position: 20%;
+    
+
+}
