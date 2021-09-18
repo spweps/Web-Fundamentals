@@ -1,0 +1,20 @@
+.box1{
+    overflow:hidden;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-style:solid;
+    height:300px;
+    width:500px;
+    background:white;
+
+}
+.topbar{
+    background:steelblue;
+    
+    
+    
+}
+.content{
+    background:white;
+}
