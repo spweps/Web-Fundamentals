@@ -1,0 +1,38 @@
+h1{
+    position:center;
+    color:black;
+    text-align:center;
+}
+img{
+    width:250px;
+}
+#bigbox{
+    background-color: rgb(216, 210, 210);
+    height:1000px;
+}
+#box1{
+    background-color: deeppink;
+    height:30%;
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+}
+#box2{
+    background-color:lawngreen;
+    height:30%;
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+
+}
+#box3{
+    background-color:salmon;
+    height:30%;
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+}
+h5{
+    text-align:center;
+    
+}
