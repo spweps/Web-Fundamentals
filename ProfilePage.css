@@ -1,0 +1,37 @@
+#content{
+    display:flex;
+}
+#navbar{
+    background:black;
+    color:white;
+    justify-content:space-between;
+    align-items:center;
+    display:flex;
+}
+.navlinks{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    width:50%;
+    list-style-type:none;
+}
+.box1{
+    overflow:hidden;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-style:solid;
+    height:300px;
+    width:500px;
+    background:white;
+
+}
+.topbar{
+    background:steelblue;
+    
+    
+    
+}
+.content{
+    background:white;
+}
