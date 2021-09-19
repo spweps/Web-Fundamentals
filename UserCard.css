@@ -1,20 +1,50 @@
-.box1{
-    overflow:hidden;
+*{
+    margin:0;
+    padding:0;
+}
+#main{
     display:flex;
-    justify-content:center;
     align-items:center;
     border-style:solid;
-    height:300px;
-    width:500px;
-    background:white;
+    width:1000px;
+    margin:0 auto;
+    justify-content:space-between;
 
 }
 .topbar{
-    background:steelblue;
-    
-    
-    
+    background:steelblue; 
+    height:120px;
+    margin-bottom:70px;
 }
 .content{
-    background:white;
+    padding:20px;
+    height: 300px;
 }
+.box1{
+    width:100%;
+    overflow:hidden;
+    border:2px solid #999;
+    margin-bottom:20px;
+}
+.usercircle{
+    border-radius: 50%;
+    background:#fff;
+    height: 180px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.gear{
+    height: 20px;
+
+}
+.mapmarker{
+    height: 20px;
+
+}
+.content h1,h2,h3,p{
+    margin:20px 0px;
+
+}
+.body {font-family:sans-serif}
