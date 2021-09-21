@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+}
+#page{
+    display:flex;
+    margin:auto;
+}
+.likesbox{
+    display:flex;
+    width:800px;
+    height:200px;
+    border:1px solid black;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    margin:auto;
+
+}
+.content{
+    display:flex;
+
+}
+.top{
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+
+}
