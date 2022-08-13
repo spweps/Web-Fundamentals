@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding:0;
+}
+.searchbar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    height: 40px;
+    align-items: center;
+    margin-top:40px;
+}
+.plantbar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    height:40px;
+    align-items:center;
+    margin-top:30px;
+    margin-bottom:30px; 
+    border-bottom:solid black 10px;
+    
+}
+.bigboxes{
+    display:flex;
+    
+    margin-bottom:40px;
+    margin-top:20px;
+    
+}
+#bigbox1, #aloearea, .flowers{
+    background-color:cyan;
+}
+#bigbox1{
+    align-items:center;
+    justify-content:space-evenly;
+    text-justify:center;
+    padding:50px;
+    width:33%;
+    
+    
+
+}
+#bigbox11{
+    display:flex;
+    align-items:center;
+    font-size:larger;
+    justify-content:space-between;
+    padding:35px;
+    
+    
+}
+#hoverbox{
+    display:block
+    width:33%;
+    flex:1;
+
+}
+#bigbox3{
+    width:33%;
+    flex:1;
+}
+.aloearea{
+    display:flex;
+    text-align:center;
+    font-size:larger;
+    width:33%;
+    
+}
+.flowers{
+    display:flex;
+    height: 200px;
+    align-items:center;
+    justify-content:space-around;
+    
+}
+.picstoround{
+    border-radius:50%;
+    height:150px;
+    width:150px;
+}
+.hide{
+    display: none;
+}
+.hide2{
+    display:none;
+}
+p{
+    text-align:center;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+    margin-top:10%;
+}
+.footer{
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+}

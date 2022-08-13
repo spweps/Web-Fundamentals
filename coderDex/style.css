@@ -1,0 +1,19 @@
+#user {
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
+}
+
+#gray {
+    font-style: italic;
+    color: gray;
+    font-size: 70%;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
